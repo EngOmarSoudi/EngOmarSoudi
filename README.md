@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)
 <h1 align="center">Hi 👋, I'm OmarAlsoudi</h1>
-<h3 align="center">A passionate FullStack developer from Yemen</h3>
+<h3 align="center">A passionate  developer from Yemen</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="engomarsoudi" />
 
